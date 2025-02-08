@@ -1,0 +1,12 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "DingTalk JinBuTi.ttf",
+			"shift": [0, 1.0],
+			"size": 8,
+			"oversample": 6,
+			"skip": ""
+        }
+	]
+}
