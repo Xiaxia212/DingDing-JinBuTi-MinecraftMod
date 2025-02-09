@@ -14,26 +14,27 @@
 2. 放入.minecraft/resourcepacks文件夹
 3. 在游戏设置中启用即可
 
-📜 开源协议: MIT License
+📜 开源协议: GNU通用公共许可证 v3
+
 欢迎提交Issue和Pull Request，共同完善资源包！
 
 ---
 
-**English Description**
-**Project Name**: DingTalk JinBuTi Minecraft Resource Pack
-**GitHub Repo**: https://github.com/Xiaxia212/DingDing-JinBuTi-MinecraftMod
+**English Description   
+**Project Name: DingTalk JinBuTi Minecraft Resource Pack
+**GitHub Repo: https://github.com/Xiaxia212/DingDing-JinBuTi-MinecraftMod
 
 A modern, minimalist resource pack for Minecraft, inspired by DingTalk's progressive font aesthetic. Optimized the in-game font rendering elements to provide a clearer and more comfortable visual experience. Support Java Edition 1.21+, suitable for high-resolution display devices.
-
 ✨ **Key Features**
-- Complete Chinese font replacement with DingTalk JinBuTi
+- Complete font replacement with DingTalk JinBuTi
 
-📥 **Installation**
-1. Download .zip from Releases
+📥 **Installation** 
+1. Download .zip from Releases1.
 2. Place in .minecraft/resourcepacks folder
-3. Enable in game settings
+3. Enable in game settings3.
 
-📜 License: MIT License
+📜 License: GNU GENERAL PUBLIC LICENSE v3
+
 Contributions via Issues and PRs are welcomed!
 
 ---
