@@ -23,7 +23,7 @@
 **Project Name**: DingTalk JinBuTi Minecraft Resource Pack
 **GitHub Repo**: https://github.com/Xiaxia212/DingDing-JinBuTi-MinecraftMod
 
-A modern, minimalist resource pack for Minecraft, inspired by DingTalk's progressive font aesthetic. Optimized the in-game font rendering elements to provide a clearer and more comfortable visual experience. Support Java Edition 1.21+, suitable for high-resolution display devices.一个现代的，极简主义的资源包为我的世界，灵感来自钉钉的进步字体美学。优化游戏内字体渲染元素，提供更清晰、更舒适的视觉体验。支持Java版1.21，适用于高分辨率显示设备。
+A modern, minimalist resource pack for Minecraft, inspired by DingTalk's progressive font aesthetic. Optimized the in-game font rendering elements to provide a clearer and more comfortable visual experience. Support Java Edition 1.21+, suitable for high-resolution display devices.
 
 ✨ **Key Features**
 - Complete Chinese font replacement with DingTalk JinBuTi
